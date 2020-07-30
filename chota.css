@@ -1,0 +1,285 @@
+
+  .starting
+  {
+    display: flex;
+    background-color:blue;
+  }
+  .contents
+  {
+    flex: 53.33%;
+    color:white;
+    text-align: center;
+  }
+  .starting1
+  {
+    display: flex;
+    background-color:white;
+  }
+  .contents1
+  {
+    flex: 53.33%;
+    color:black;
+    text-align: center;
+  }
+  .background {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Bottom left text */
+  .bold {
+    color: black;
+    position: absolute;
+    bottom: 120px;
+    left: 18px;
+  }
+  .bold1
+  {
+    color: black;
+    position: absolute;
+    bottom: 95px;
+    left: 18px;
+  }
+  .normal{
+    color: black;
+    position: absolute;
+    bottom: 65px;
+    left: 16px;
+  }
+  .normal1{
+    color: black;
+    position: absolute;
+    bottom: 30px;
+    left: 16px;
+  }
+  .trial
+  {
+    background-color:blue;
+    position: absolute;
+    bottom: 10px;
+    left: 16px;
+  }
+  .new
+  {
+    position: absolute;
+    bottom: 10px;
+    left: 200px;
+    color: black;
+  }
+  .creative
+  {
+    display: flex;
+    background-color:white;
+    left: 10px;
+  }
+  .creative1
+  {
+    flex: 93.33%;
+    color:blue;
+    text-align: center;
+  }
+  .updates
+  {
+    display: flex;
+  }
+  .updates1
+  {
+    flex: 53.33%;
+    text-align: center;
+  }
+  .imgt {
+    color: black;
+    position: relative;
+    bottom: 145px;
+    left: 6px;
+    color: white;
+    text-align: left;
+  }
+  .imgt1
+  {
+    color: black;
+    position: relative;
+    bottom: 155px;
+    left: 6px;
+    color: white;
+    text-align: left;
+  }
+  .imgt2{
+    
+    position: relative;
+    bottom: 165px;
+    text-align: left;
+    color: white;
+  }
+  .bo1{
+    position: relative;
+     left: 2px;
+    bottom: 180px;
+    color:white ;
+    text-align: left;
+  }
+  .bo2{
+    position: relative;
+     left: 4px;
+    bottom: 180px;
+    color:black ;
+    text-align: left;
+  }
+  .aupdates
+  {
+    display: flex;
+    padding-top: 1%;
+  }
+  .aupdates1
+  {
+    flex: 33.33%;
+    text-align: center;
+  }
+  .bo{
+    position: relative;
+    bottom: 165px;
+    color: white;
+    text-align: left;
+  }
+  .color
+  {
+    background-color: blueviolet;
+  }
+  .extra
+  {
+    background-color:blueviolet;
+    color: blueviolet;
+  }
+  .bo3{
+    color:black;
+    position: relative;
+    bottom: 375px;
+    left: 650px;
+  }
+  .bo4{
+    color:black;
+    position: relative;
+    bottom: 360px;
+    left: 650px;
+  }
+  .bo5
+  {
+  
+    position: relative;
+    bottom: 340px;
+    left: 650px;
+  }
+  .boe
+  {
+    
+    position: relative;
+    bottom: 370px;
+    left: 820px;
+    
+  }
+  .mupdates
+  {
+    bottom: 0.2%;
+  }
+  
+  .kupdates
+  {
+    display: flex;
+  }
+  .kupdates1
+  {
+    flex: 53.33%;
+    text-align: center;
+  }
+  .bo6{
+    color: black;
+    position: relative;
+    top: 500px;
+    left: 100px;
+    text-align: left;
+    align-content: center;
+  }
+  .plz{
+    
+    justify-content: center;
+  }
+  .bo7{
+    color:white;
+    position: relative;
+    bottom: 360px;
+    left: 800px;
+  }
+  .bo8{
+    color:white;
+    position: relative;
+    bottom: 340px;
+    left: 800px;
+  }
+  .bo9{
+    color:white;
+    position: relative;
+    bottom: 320px;
+    left: 800px;
+  }
+  .color1
+  {
+    background-color: purple;
+  }
+  .oupdates
+  {
+    display: flex;
+  }
+  .oupdates1
+  {
+    flex: 53.33%;
+    text-align: center;
+  }
+  .bo10
+  {
+    color:white;
+    position: relative;
+    bottom: 180px;
+    text-align: left;
+  }
+  .bo11
+  {
+    color:white;
+    position: relative;
+    bottom: 150px;
+    left:70px;
+    text-align: left;
+  }
+  
+  .color2{
+    background-color: lightblue;
+  }
+  .ending
+  {
+    display: flex;
+    background-color:lightgray
+  }
+  .ending1
+  {
+    flex: 13.33%;
+    margin-left: 30px;
+    color: black;  
+  }
+a:visited{
+  color:black;
+}
+a.link{
+  color: black;
+}
+p.references{
+  word-spacing: 30px;
+  text-align: center;
+  background-color:lightslategray
+}
+
+  
+
+
+
+ 
+ 
